@@ -1,0 +1,7 @@
+case,link,t_s_us,t_w_s_per_byte,bandwidth_MBps
+cross_heat-elio__heat-michel,direct (DERP at start),26425.12,1.4299e-06,0.70
+cross_heat-robin__heat-elio,direct,10837.83,1.6122e-06,0.62
+cross_heat-robin__heat-michel,direct (measured; snapshot via DERP),32373.08,4.1412e-06,0.24
+same_heat-elio,same VM,0.49,2.8710e-10,3483.15
+same_heat-michel,same VM,0.36,1.2131e-10,8243.04
+same_heat-robin,same VM,0.18,1.2702e-10,7872.83

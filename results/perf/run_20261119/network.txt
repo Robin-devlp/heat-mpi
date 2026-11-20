@@ -1,0 +1,25 @@
+# Tailscale account emails and home public IP addresses are masked for privacy.
+== 2026-11-19T12:41:39+02:00 rep 1
+100.86.185.2   heat-robin   robin@masked       linux  -                                                       
+100.89.53.112  heat-elio    elio@masked        linux  idle, tx 103164 rx 110964                               
+100.75.33.109  heat-michel  michel@masked      linux  active; direct <ip-michel>:1813, tx 102120 rx 109040  
+pong from heat-elio (100.89.53.112) via <ip-elio>:2143 in 14ms
+pong from heat-michel (100.75.33.109) via <ip-michel>:1813 in 61ms
+== 2026-11-19T14:14:23+02:00 rep 2
+100.86.185.2   heat-robin   robin@masked       linux  -                                                             
+100.89.53.112  heat-elio    elio@masked        linux  active; direct <ip-elio>:2143, tx 853311008 rx 846485416  
+100.75.33.109  heat-michel  michel@masked      linux  active; direct <ip-michel>:1813, tx 642883540 rx 632016072  
+pong from heat-elio (100.89.53.112) via <ip-elio>:2143 in 22ms
+pong from heat-michel (100.75.33.109) via <ip-michel>:1813 in 56ms
+== 2026-11-19T15:46:40+02:00 rep 3
+100.86.185.2   heat-robin   robin@masked       linux  -                                                               
+100.89.53.112  heat-elio    elio@masked        linux  active; direct <ip-elio>:2143, tx 1706365048 rx 1692767264  
+100.75.33.109  heat-michel  michel@masked      linux  active; direct <ip-michel>:1813, tx 1285714332 rx 1263621928  
+pong from heat-elio (100.89.53.112) via <ip-elio>:2143 in 13ms
+pong from heat-michel (100.75.33.109) via <ip-michel>:1813 in 53ms
+== 2026-11-19T17:41:56+02:00 end
+100.86.185.2   heat-robin   robin@masked       linux  -                                                               
+100.89.53.112  heat-elio    elio@masked        linux  active; direct <ip-elio>:2143, tx 2561989736 rx 2539830780  
+100.75.33.109  heat-michel  michel@masked      linux  active; direct <ip-michel>:1813, tx 1935658896 rx 1896085008  
+pong from heat-elio (100.89.53.112) via <ip-elio>:2143 in 17ms
+pong from heat-michel (100.75.33.109) via <ip-michel>:1813 in 56ms

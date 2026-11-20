@@ -1,0 +1,16 @@
+# baseline date=2026-11-19T12:07:57+02:00 steps=500 hosts=heat-robin
+host=heat-robin rep=1 decomp=serial P=1 N=512 case=1 r=0.25 steps=500 dt=9.536743e-07 T=0.000476837 t_total=0.127580 t_comp=0.127580 t_comm=0.000000
+host=heat-robin rep=1 decomp=serial P=1 N=1024 case=1 r=0.25 steps=500 dt=2.384186e-07 T=0.000119209 t_total=0.548022 t_comp=0.548022 t_comm=0.000000
+host=heat-robin rep=1 decomp=serial P=1 N=2048 case=1 r=0.25 steps=500 dt=5.960464e-08 T=2.98023e-05 t_total=2.368050 t_comp=2.368050 t_comm=0.000000
+host=heat-robin rep=1 decomp=serial P=1 N=4096 case=1 r=0.25 steps=500 dt=1.490116e-08 T=7.45058e-06 t_total=10.521924 t_comp=10.521924 t_comm=0.000000
+host=heat-robin rep=1 decomp=serial P=1 N=8192 case=1 r=0.25 steps=500 dt=3.725290e-09 T=1.86265e-06 t_total=53.132781 t_comp=53.132781 t_comm=0.000000
+host=heat-robin rep=2 decomp=serial P=1 N=512 case=1 r=0.25 steps=500 dt=9.536743e-07 T=0.000476837 t_total=0.171636 t_comp=0.171636 t_comm=0.000000
+host=heat-robin rep=2 decomp=serial P=1 N=1024 case=1 r=0.25 steps=500 dt=2.384186e-07 T=0.000119209 t_total=0.773415 t_comp=0.773415 t_comm=0.000000
+host=heat-robin rep=2 decomp=serial P=1 N=2048 case=1 r=0.25 steps=500 dt=5.960464e-08 T=2.98023e-05 t_total=3.190819 t_comp=3.190819 t_comm=0.000000
+host=heat-robin rep=2 decomp=serial P=1 N=4096 case=1 r=0.25 steps=500 dt=1.490116e-08 T=7.45058e-06 t_total=13.320153 t_comp=13.320153 t_comm=0.000000
+host=heat-robin rep=2 decomp=serial P=1 N=8192 case=1 r=0.25 steps=500 dt=3.725290e-09 T=1.86265e-06 t_total=55.175700 t_comp=55.175700 t_comm=0.000000
+host=heat-robin rep=3 decomp=serial P=1 N=512 case=1 r=0.25 steps=500 dt=9.536743e-07 T=0.000476837 t_total=0.173353 t_comp=0.173353 t_comm=0.000000
+host=heat-robin rep=3 decomp=serial P=1 N=1024 case=1 r=0.25 steps=500 dt=2.384186e-07 T=0.000119209 t_total=0.805033 t_comp=0.805033 t_comm=0.000000
+host=heat-robin rep=3 decomp=serial P=1 N=2048 case=1 r=0.25 steps=500 dt=5.960464e-08 T=2.98023e-05 t_total=3.291438 t_comp=3.291438 t_comm=0.000000
+host=heat-robin rep=3 decomp=serial P=1 N=4096 case=1 r=0.25 steps=500 dt=1.490116e-08 T=7.45058e-06 t_total=14.176469 t_comp=14.176469 t_comm=0.000000
+host=heat-robin rep=3 decomp=serial P=1 N=8192 case=1 r=0.25 steps=500 dt=3.725290e-09 T=1.86265e-06 t_total=62.412205 t_comp=62.412205 t_comm=0.000000

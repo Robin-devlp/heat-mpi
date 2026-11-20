@@ -1,0 +1,6 @@
+pong from heat-michel (100.75.33.109) via DERP(par) in 164ms
+pong from heat-michel (100.75.33.109) via DERP(par) in 162ms
+pong from heat-michel (100.75.33.109) via DERP(par) in 188ms
+pong from heat-michel (100.75.33.109) via DERP(par) in 149ms
+pong from heat-michel (100.75.33.109) via DERP(par) in 153ms
+direct connection not established

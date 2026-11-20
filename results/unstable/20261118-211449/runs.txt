@@ -1,0 +1,8 @@
+decomp=serial P=1 N=64 case=1 r=0.2625 steps=20 dt=6.408691e-05 T=0.00128174 t_total=0.000052 t_comp=0.000052 t_comm=0.000000
+decomp=serial P=1 N=64 case=1 r=0.2625 steps=60 dt=6.408691e-05 T=0.00384521 t_total=0.000172 t_comp=0.000172 t_comm=0.000000
+decomp=serial P=1 N=64 case=1 r=0.2625 steps=120 dt=6.408691e-05 T=0.00769043 t_total=0.000343 t_comp=0.000343 t_comm=0.000000
+decomp=serial P=1 N=64 case=1 r=0.2625 steps=200 dt=6.408691e-05 T=0.0128174 t_total=0.000517 t_comp=0.000517 t_comm=0.000000
+decomp=serial P=1 N=64 case=1 r=0.25 steps=200 dt=6.103516e-05 T=0.012207 t_total=0.000481 t_comp=0.000481 t_comm=0.000000
+heat: refusing to run: r = 0.2625 exceeds the stability limit r <= 1/4.
+      For the explicit 5-point scheme the checkerboard mode is amplified by
+      |1 - 8r| = 1.1 > 1 per step, so round-off errors grow exponentially.

@@ -1,0 +1,7 @@
+# Example hostfile for mpirun.
+# One line per VM: its Tailscale name, then how many processes it may run (slots).
+# Slots = the number of CPUs of that VM.
+# To use it on other VMs, replace the names and slot counts with your own.
+heat-robin  slots=4
+heat-elio   slots=2
+heat-michel slots=4

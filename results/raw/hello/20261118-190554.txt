@@ -1,0 +1,14 @@
+# hello world on the 3 VMs, 2026-11-18 19:05 (run from heat-robin)
+# mpirun --hostfile hosts -np 10 --mca oob_tcp_if_include tailscale0 --mca btl_tcp_if_include tailscale0 --mca btl tcp,self ./hello
+# hosts: heat-robin slots=4, heat-elio slots=2, heat-michel slots=4
+# output sorted by rank
+rank 0 of 10 on heat-robin
+rank 1 of 10 on heat-robin
+rank 2 of 10 on heat-robin
+rank 3 of 10 on heat-robin
+rank 4 of 10 on heat-elio
+rank 5 of 10 on heat-elio
+rank 6 of 10 on heat-michel
+rank 7 of 10 on heat-michel
+rank 8 of 10 on heat-michel
+rank 9 of 10 on heat-michel

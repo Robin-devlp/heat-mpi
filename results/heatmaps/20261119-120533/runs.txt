@@ -1,0 +1,19 @@
+# N=128 r=0.25 decomp=blocks P=4 date=2026-11-19T12:05:33+02:00
+decomp=blocks P=4 N=128 case=1 r=0.249756 steps=328 dt=1.524390e-05 T=0.005 t_total=0.004263 t_comp=0.002283 t_comm=0.002134 grid=2x2
+decomp=blocks P=4 N=128 case=1 r=0.249947 steps=1311 dt=1.525553e-05 T=0.02 t_total=0.017413 t_comp=0.010290 t_comm=0.009821 grid=2x2
+decomp=blocks P=4 N=128 case=1 r=0.249985 steps=3277 dt=1.525786e-05 T=0.05 t_total=0.339307 t_comp=0.034737 t_comm=0.312352 grid=2x2
+decomp=blocks P=4 N=128 case=1 r=0.249985 steps=13108 dt=1.525786e-05 T=0.2 t_total=0.217102 t_comp=0.105601 t_comm=0.135273 grid=2x2
+decomp=blocks P=4 N=128 case=2 r=0.249756 steps=328 dt=1.524390e-05 T=0.005 t_total=0.003258 t_comp=0.001955 t_comm=0.002184 grid=2x2
+decomp=blocks P=4 N=128 case=2 r=0.249947 steps=1311 dt=1.525553e-05 T=0.02 t_total=0.016337 t_comp=0.007677 t_comm=0.010584 grid=2x2
+decomp=blocks P=4 N=128 case=2 r=0.249985 steps=3277 dt=1.525786e-05 T=0.05 t_total=0.038980 t_comp=0.020359 t_comm=0.022609 grid=2x2
+decomp=blocks P=4 N=128 case=2 r=0.249985 steps=13108 dt=1.525786e-05 T=0.2 t_total=0.192732 t_comp=0.096616 t_comm=0.108886 grid=2x2
+case=1 T=0.005: interior min=0.000002 max=0.996132 in[0,1]=True sym_x=0.0e+00 sym_y=0.0e+00 sym_diag=0.0e+00
+case=1 T=0.02: interior min=0.049074 max=0.999030 in[0,1]=True sym_x=0.0e+00 sym_y=0.0e+00 sym_diag=0.0e+00
+case=1 T=0.05: interior min=0.403639 max=0.999622 in[0,1]=True sym_x=0.0e+00 sym_y=0.0e+00 sym_diag=0.0e+00
+case=1 T=0.2: interior min=0.968734 max=0.999981 in[0,1]=True sym_x=0.0e+00 sym_y=0.0e+00 sym_diag=0.0e+00
+-> /home/mpi/heat-mpi/results/heatmaps/20261119-120533/heatmaps_case1.png
+case=2 T=0.005: interior min=0.000000 max=0.937784 in[0,1]=True sym_x=0.0e+00 sym_y=0.0e+00
+case=2 T=0.02: interior min=0.000875 max=0.968748 in[0,1]=True sym_x=0.0e+00 sym_y=0.0e+00
+case=2 T=0.05: interior min=0.005686 max=0.979300 in[0,1]=True sym_x=0.0e+00 sym_y=0.0e+00
+case=2 T=0.2: interior min=0.012657 max=0.986576 in[0,1]=True sym_x=0.0e+00 sym_y=0.0e+00
+-> /home/mpi/heat-mpi/results/heatmaps/20261119-120533/heatmaps_case2.png
