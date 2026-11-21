@@ -4,7 +4,9 @@ Solves the 2D heat equation on the unit square with the explicit 5-point scheme,
 in three versions: serial, 1D strips and 2D blocks (MPI). The parallel versions give
 exactly the same result as the serial one.
 
-Team: Robin, Elio, Michel.
+Team: Robin Ghassibeh (231463)
+      Michel Abou Rahal (230952)
+      Elio Maroun (230316)
 
 
 ## What you need
